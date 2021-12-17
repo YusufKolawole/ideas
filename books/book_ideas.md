@@ -8,3 +8,5 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
+- [ ] Learn React and Advance React
+- [ ] Learn Blockchain
